@@ -11,6 +11,7 @@ ipykernel = "*"
 black = "*"
 seaborn = "*"
 numba = "*"
+scipy = "*"
 
 [dev-packages]
 
